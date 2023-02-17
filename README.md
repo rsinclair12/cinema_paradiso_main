@@ -1,4 +1,4 @@
-# Cinema-Paradiso_frontend
+# Cinema_Paradiso
 ```In this web application you will find many informative movie reviews,
 you can compare different reviews on current, upcoming, recent, or
 vintage movies and even get a sneak-peek at the trailers. You can filter
