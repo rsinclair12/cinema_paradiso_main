@@ -9,6 +9,7 @@ movies in a single click.
 ## Live Demo
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 Check out [FRONTEND LIVE DEMO](https://cinemaparadisofrontend.rsinclair12.repl.co) here!!
+Check out [API LIVE DEMO](https://cinemaparadisobackend.rsinclair12.repl.co) here!!
 
 ## Screenshots
 ![Screenshot 2023-02-17 at 8 05 44 AM](https://user-images.githubusercontent.com/97200801/219535218-c75a7d6c-0ced-4601-a01e-2048de7565a6.png)
